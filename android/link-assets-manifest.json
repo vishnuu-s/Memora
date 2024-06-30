@@ -1,0 +1,73 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Figtree-Black.ttf",
+      "sha1": "91e177a4faa6ba155d583eb54927c46a824e9747"
+    },
+    {
+      "path": "assets/fonts/Figtree-BlackItalic.ttf",
+      "sha1": "a1c6bf306b625fdddce053cbcef3b0995a9fc690"
+    },
+    {
+      "path": "assets/fonts/Figtree-Bold.ttf",
+      "sha1": "ab784d6541b3ac86e3ad5e8a0941e80f1844983f"
+    },
+    {
+      "path": "assets/fonts/Figtree-BoldItalic.ttf",
+      "sha1": "1a678915fd091d95120ce50bb845bcf921987c9a"
+    },
+    {
+      "path": "assets/fonts/Figtree-ExtraBold.ttf",
+      "sha1": "39972229860e5ec379527f6d87b5aff21a6183a7"
+    },
+    {
+      "path": "assets/fonts/Figtree-ExtraBoldItalic.ttf",
+      "sha1": "aa515bfd2fce2c5bb2a839873bb41b005db7dc70"
+    },
+    {
+      "path": "assets/fonts/Figtree-Italic.ttf",
+      "sha1": "0cc67d2f85d70ff024f6ca4c85a68258e5058519"
+    },
+    {
+      "path": "assets/fonts/Figtree-Light.ttf",
+      "sha1": "1aecf6ec3bf57022dd796aadc8b7738f000a4286"
+    },
+    {
+      "path": "assets/fonts/Figtree-LightItalic.ttf",
+      "sha1": "3ec17afc0633a3a5fe9ffe7bf6ae43b53465ce0b"
+    },
+    {
+      "path": "assets/fonts/Figtree-Medium.ttf",
+      "sha1": "abb23ed443b2ee8f51e1fe843c8055bc7635a238"
+    },
+    {
+      "path": "assets/fonts/Figtree-MediumItalic.ttf",
+      "sha1": "da492811edc861305072203386f2115ae40eff83"
+    },
+    {
+      "path": "assets/fonts/Figtree-Regular.ttf",
+      "sha1": "f9148d192a8bf4b984d82f60f658aeadd2c133d3"
+    },
+    {
+      "path": "assets/fonts/Figtree-SemiBold.ttf",
+      "sha1": "21b09a00065c5800021b6d2c969c83496f7d4d06"
+    },
+    {
+      "path": "assets/fonts/Figtree-SemiBoldItalic.ttf",
+      "sha1": "afc6e71c39a009561b49e1a4907c19941ff39d0c"
+    },
+    {
+      "path": "assets/fonts/Mulish-Light.ttf",
+      "sha1": "25efbd3c907aa50302047815ce8049bed0b613e2"
+    },
+    {
+      "path": "assets/fonts/Raleway-Black.ttf",
+      "sha1": "008ce784e9f5a60f64677b8798a9bd7ccb253ba5"
+    },
+    {
+      "path": "assets/fonts/Raleway-Bold.ttf",
+      "sha1": "ab21b55115bd50a57f3a95ec4eda834eee675d04"
+    }
+  ]
+}
